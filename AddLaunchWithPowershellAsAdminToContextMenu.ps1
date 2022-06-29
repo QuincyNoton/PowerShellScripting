@@ -1,7 +1,7 @@
 #Before using, set the $debugMode variable to 0.
 #You may update the $contextMenuTitle vaiable to be whatever you want, but DO NOT use ANY special characters.
 
-$debugMode = 0
+$debugMode = 1
 $contextMenuTitle = "Run with PowerShell as Administrator"
 
 #========================================================== End Of User-Configurable Fields ==========================================================#
