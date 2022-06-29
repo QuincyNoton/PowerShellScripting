@@ -33,6 +33,6 @@ This script must be run as an Administrator. Exiting shell..."
     Write-Host "
 
 You need to configure this PowerShell Script properly before using it.
-Please consult the documentation in the header of the file."
+Please consult the documentation in the header of the file. :)"
     Start-Sleep -Seconds 5
 }
